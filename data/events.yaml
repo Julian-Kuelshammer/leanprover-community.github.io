@@ -12,6 +12,13 @@
   start_date: July 22 2024
   end_date: July 25 2024
 
+- title: "Essén lectures 2024"
+  location: Uppsala, SE
+  type: tutorial
+  url: https://www.uu.se/en/department/mathematics/study/phd-studies/essen-lectures
+  start_date: June 10 2024
+  end_date: June 14 2024  
+
 - title: "Lean Together 2024"
   location: virtual
   type: workshop
